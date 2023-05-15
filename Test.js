@@ -1,3 +1,3 @@
-var a =5,b=8, c=10;
-var sum  = a+b+c;
+var a =5,b=8;
+var sum  = a+b;
 console.log(sum);
